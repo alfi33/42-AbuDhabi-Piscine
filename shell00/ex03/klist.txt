@@ -1,0 +1,16 @@
+Credentials cache: API:00574859-AD2B-44F3-9C5F-DCFAE864B8ED
+        Principal: aabdul-w@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+May 17 22:04:16 2021  May 18 08:04:16 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
+Credentials cache: API:C91C50F0-96C5-43C8-98F5-29B10F06730A
+        Principal: aabdul-w@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+May 22 21:12:20 2021  May 23 07:12:14 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
+Credentials cache: API:3C4045A6-BA7E-4378-8088-5E6FB95F2692
+        Principal: aabdul-w@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+May 23 08:49:41 2021  May 23 18:49:41 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
+May 23 08:49:43 2021  May 23 18:49:41 2021  HTTP/student-storage.42abudhabi.ae@42ABUDHABI.AE
